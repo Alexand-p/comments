@@ -4,7 +4,6 @@
     "type": "magento2-module",
     "version": "1.0.4",
     "minimum-stability": "stable",
-    "prefer-stable": true,
     "license": "proprietary",
     "authors": [
         {
