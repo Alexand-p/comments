@@ -10,13 +10,6 @@
             "name": "alexandr",
             "email": "3082303@gmail.com"
         }
-    ],
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "Savchenko\\OrderComments\\": ""
-        }
-    }
+    ]
 }
+
