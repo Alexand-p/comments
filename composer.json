@@ -3,7 +3,7 @@
     "description": "Order Comments for Magento 2",
     "type": "magento2-module",
     "version": "1.0.4",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "OSL-3.0",
     "authors": [
         {
